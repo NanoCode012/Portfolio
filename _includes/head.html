@@ -44,7 +44,13 @@
 
 <div id="bump">
   <body class="">
+
+    {% if include.color == "light" %}
     <header class="site-header">
+    {% elsif include.color == "dark" %}
+    <header class="site-header darken">
+    {% endif %}
+    
       <div class="wrap">
         <hgroup>
           <h1><a href="/">{{ site.title }}</a></h1>

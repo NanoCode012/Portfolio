@@ -1,6 +1,6 @@
 {% if page.image.feature %}
 
-{% include head.html %}
+{% include head.html color="light" %}
 
 <section class="article">
 
@@ -8,7 +8,7 @@
   <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
 {% else %}
 
-{% include head-dark.html %}
+{% include head.html color="dark" %}
 
 <section class="article pad-top">
 
