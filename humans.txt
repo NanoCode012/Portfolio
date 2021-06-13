@@ -1,0 +1,10 @@
+/* TEAM */
+Creator: Chanvichet Vong
+Contact: 
+Twitter: 
+Location: Bangkok, TH
+
+/* SITE */                         
+Last update: 2021-06-14
+Standards: HTML, SCSS, Jekyll                        
+Software: git
