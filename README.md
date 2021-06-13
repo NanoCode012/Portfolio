@@ -28,3 +28,8 @@ $ docker-compose up -d
 ## Credits
 
 This is forked from [Balzac-for-Jekyll](https://github.com/ColeTownsend/Balzac-for-Jekyll)
+
+Original LICENSE here [LICENSE.old](LICENSE.old)
+
+
+Current MIT LICENSE [LICENSE](LICENSE)
